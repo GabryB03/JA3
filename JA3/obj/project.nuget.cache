@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STUCftQwFZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\JA3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolog\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
