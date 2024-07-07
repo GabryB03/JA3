@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JA3Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+532d37338e68d30476ae2254d5263c17eeeceb0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61dfbf1dbe889811232aa01820ccb98291ae9281")]
 [assembly: System.Reflection.AssemblyProductAttribute("JA3Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JA3Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

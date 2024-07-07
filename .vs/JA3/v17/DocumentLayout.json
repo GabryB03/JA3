@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bolog\\Desktop\\JA3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0240620-85AC-4C66-91D9-F58D70ABD0C5}|JA3Test\\JA3Test.csproj|c:\\users\\bolog\\desktop\\ja3\\ja3test\\ja3test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A0240620-85AC-4C66-91D9-F58D70ABD0C5}|JA3Test\\JA3Test.csproj|solutionrelative:ja3test\\ja3test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0240620-85AC-4C66-91D9-F58D70ABD0C5}|JA3Test\\JA3Test.csproj|c:\\users\\bolog\\desktop\\ja3\\ja3test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0240620-85AC-4C66-91D9-F58D70ABD0C5}|JA3Test\\JA3Test.csproj|solutionrelative:ja3test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\bolog\\desktop\\ja3\\ja3\\http2\\http2connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,42 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JA3Test",
-              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3Test\\JA3Test.csproj",
-              "RelativeDocumentMoniker": "JA3Test\\JA3Test.csproj",
-              "ToolTip": "C:\\Users\\bolog\\Desktop\\JA3\\JA3Test\\JA3Test.csproj",
-              "RelativeToolTip": "JA3Test\\JA3Test.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-07T14:20:04.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Http2Connection.cs",
               "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Http2\\Http2Connection.cs",
               "RelativeDocumentMoniker": "JA3\\Http2\\Http2Connection.cs",
               "ToolTip": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Http2\\Http2Connection.cs",
               "RelativeToolTip": "JA3\\Http2\\Http2Connection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:15:37.804Z"
+              "WhenOpened": "2024-07-07T14:15:37.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3Test\\Program.cs",
-              "RelativeDocumentMoniker": "JA3Test\\Program.cs",
-              "ToolTip": "C:\\Users\\bolog\\Desktop\\JA3\\JA3Test\\Program.cs",
-              "RelativeToolTip": "JA3Test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:13:17.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Http2Client.cs",
               "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Http2\\Http2Client.cs",
               "RelativeDocumentMoniker": "JA3\\Http2\\Http2Client.cs",
@@ -90,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Ja3MessageHandler.cs",
               "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Ja3MessageHandler.cs",
               "RelativeDocumentMoniker": "JA3\\Ja3MessageHandler.cs",
@@ -102,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Ja3TlsAuthentication.cs",
               "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Ja3TlsAuthentication.cs",
               "RelativeDocumentMoniker": "JA3\\Ja3TlsAuthentication.cs",
@@ -114,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Ja3TlsClient.cs",
               "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\JA3\\JA3\\Ja3TlsClient.cs",
               "RelativeDocumentMoniker": "JA3\\Ja3TlsClient.cs",
