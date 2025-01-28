@@ -5,7 +5,7 @@
     <version>1.1.1</version>
     <authors>xudan.xiao</authors>
     <description>Package Description</description>
-    <repository type="git" commit="61dfbf1dbe889811232aa01820ccb98291ae9281" />
+    <repository type="git" commit="742948539f74f27cea6c0267ff43cad4fa6961da" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="BouncyCastle.Cryptography" version="2.4.0" exclude="Build,Analyzers" />
@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\bolog\Desktop\JA3\JA3\bin\x64\Release\net8.0\JA3.dll" target="lib\net8.0\JA3.dll" />
+    <file src="C:\Users\bolog\Desktop\Progetti\JA3\JA3\bin\x64\Release\net8.0\JA3.dll" target="lib\net8.0\JA3.dll" />
   </files>
 </package>

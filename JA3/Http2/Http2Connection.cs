@@ -104,9 +104,9 @@ namespace HttpTwo
                 //client = new TcpClient(proxy.Address.Host, proxy.Address.Port);
                 await tcp.ConnectAsync(ConnectionSettings.Proxy.Address.Host, ConnectionSettings.Proxy.Address.Port, cancellationToken);
 
-                var data = $"CONNECT {"tls.browserleaks.com"}:{443} HTTP/1.1\r\n" +
+                var data = $"CONNECT {ConnectionSettings.Proxy.Address.Host}:{ConnectionSettings.Proxy.Address.Port} HTTP/1.1\r\n" +
                     //$"User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko\r\n" +
-                    $"Host: {"tls.browserleaks.com"}\r\n" +
+                    $"Host: {ConnectionSettings.Proxy.Address.Host}\r\n" +
                     $"Content-Length: 0\r\n" +
                     $"DNT: 1\r\n";
                 if (ConnectionSettings.Proxy.Credentials != null)
@@ -290,7 +290,7 @@ namespace HttpTwo
                 
                     var cl = new Ja3TlsClient(null);
                 cl.EnableHttp2 = true;
-                    cl.ServerNames = new[] { "tls.browserleaks.com" };
+                cl.ServerNames = new[] { ConnectionSettings.Host };
                     var protocol = new TlsClientProtocol(stream);
                     protocol.Connect(cl);
                 clientStream = protocol.Stream;
